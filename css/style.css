@@ -54,15 +54,16 @@ img:hover {
 }
 /* create your tile classes! we recommend .small .med .large */
 .small {
-  background: lightgrey;
-  border: 1px solid black;
+  grid-row-end: span 1;
+  grid-column-end: span 1;
 }
 
 .med {
-  background: grey;
-  border: 1px solid black;
+  grid-row-end: span 2;
+  grid-column-end: span 2;
 }
 
 .large {
-  
+  grid-row-end: span 3;
+  grid-column-end: span 3;
 }
