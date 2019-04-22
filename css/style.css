@@ -68,6 +68,7 @@ img:hover {
   grid-row-end: span 3;
   grid-column-end: span 3;
 }
+
 img {
   width: 100%;
 }
