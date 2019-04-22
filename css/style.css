@@ -54,11 +54,11 @@ img:hover {
 }
 /* create your tile classes! we recommend .small .med .large */
 .small {
-
+  background: lightgrey;
 }
 
 .med {
-
+  background: grey;
 }
 
 .large {
