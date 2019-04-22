@@ -59,7 +59,7 @@ img:hover {
   grid-column-end: span 1;
 }
 
-.med {
+.medium {
   grid-row-end: span 2;
   grid-column-end: span 2;
 }
