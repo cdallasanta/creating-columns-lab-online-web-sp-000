@@ -61,8 +61,8 @@ img:hover {
 }
 
 .medium {
-  grid-row-end: span 2;
-  grid-column-end: span 2;
+  grid-row-start: span 2;
+  grid-column-start: span 2;
 }
 
 .large {
